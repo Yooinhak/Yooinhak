@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=3DDC84&height=300&section=header&text=Alissa Yoon&fontSize=70" />
+</p>
+
 <!--
 **Yooinhak/Yooinhak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
