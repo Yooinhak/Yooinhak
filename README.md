@@ -1,8 +1,11 @@
 ### Hi there 👋
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=3DDC84&height=300&section=header&text=console.log('Hello World')&fontSize=50" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=3DDC84&height=300&section=header&text=console.log('Hello World!')&fontSize=50" />
 </p>
+
+<h3>Skills</h3>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
 
 <!--
 **Yooinhak/Yooinhak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
