@@ -5,11 +5,11 @@
 </p>
 
 <h3 align="center" id="skills">🪛Skills</h3>
-<p align="center"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&amp;logo=css3&amp;logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&amp;logo=javascript&amp;logoColor=%23F7DF1E" alt="JavaScript">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&amp;logo=React&amp;logoColor=white" alt="React">
-  <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&amp;logo=redux&amp;logoColor=white" alt="Redux">
+<p align="center"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&amp;logo=html5&amp;logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&amp;logo=css3&amp;logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&amp;logo=javascript&amp;logoColor=%23F7DF1E" alt="JavaScript">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&amp;logo=React&amp;logoColor=white" alt="React">
+  <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=flat-square&amp;logo=redux&amp;logoColor=white" alt="Redux">
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=flat-square&amp;logo=react&amp;logoColor=%2361DAFB" alt="React Native">
