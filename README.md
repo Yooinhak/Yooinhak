@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&theme=react&color=8ae7fd&height=250&section=header&text=works.concat(dev)&fontSize=50&fontColor=ebfff8" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&theme=react&color=8ae7fd&height=250&section=header&text=works.concat(dev)&fontSize=50&fontColor=f7fffd" />
 </p>
 
 <h3 align="center" id="skills">🪛Skills</h3>
