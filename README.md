@@ -18,7 +18,10 @@
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&amp;logo=git&amp;logoColor=white" alt="Git">
 </p>
 
-<a href="www.naver.com"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+<h3 align="center" id="skills">🪛Skills</h3>
+<p align="center">
+  <a href="https://www.instagram.com/qo_op218/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+</p>
 
 <!--
 **Yooinhak/Yooinhak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
