@@ -12,16 +12,16 @@
   <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&amp;logo=redux&amp;logoColor=white" alt="Redux">
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&amp;logo=react&amp;logoColor=%2361DAFB" alt="React Native">
-  <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&amp;logo=SASS&amp;logoColor=white" alt="SASS">
-  <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&amp;logo=firebase" alt="Firebase">
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&amp;logo=git&amp;logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=flat-square&amp;logo=react&amp;logoColor=%2361DAFB" alt="React Native">
+  <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=flat-square&amp;logo=SASS&amp;logoColor=white" alt="SASS">
+  <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&amp;logo=firebase" alt="Firebase">
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&amp;logo=git&amp;logoColor=white" alt="Git">
 </p>
 
 <h3 align="center" id="skills">This is me! 😎</h3>
 <p align="center">
-  <a href="https://www.instagram.com/qo_op218/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-  <a href="https://www.instagram.com/qo_op218/"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.instagram.com/qo_op218/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white"/></a>
+  <a href="https://www.instagram.com/qo_op218/"><img src="https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white"/></a>
   <a href="https://www.instagram.com/qo_op218/"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white"/></a>
 </p>
 
