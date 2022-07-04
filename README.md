@@ -18,9 +18,11 @@
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&amp;logo=git&amp;logoColor=white" alt="Git">
 </p>
 
-<h3 align="center" id="skills">🪛Skills</h3>
+<h3 align="center" id="skills">This is me! 😎</h3>
 <p align="center">
   <a href="https://www.instagram.com/qo_op218/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+  <a href="https://www.instagram.com/qo_op218/"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.instagram.com/qo_op218/"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white"/></a>
 </p>
 
 <!--
