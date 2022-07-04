@@ -21,7 +21,7 @@
 <h3 align="center" id="skills">This is me! 😎</h3>
 <p align="center">
   <a href="https://www.instagram.com/qo_op218/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white"/></a>
-  <a href="https://github.com/Yooinhak"><img src="https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white"/></a>
+  <a href="syu3236@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://velog.io/@dlsgkrdl23"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white"/></a>
 </p>
 
