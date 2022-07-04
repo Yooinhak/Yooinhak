@@ -23,7 +23,7 @@
   <a href="https://www.instagram.com/qo_op218/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white"/></a>
   <a href="https://velog.io/@dlsgkrdl23"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white"/></a>
 </p>
-<p align="center"><syu3236@gmail.com></p>
+<syu3236@gmail.com>
 
 <!--
 **Yooinhak/Yooinhak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
