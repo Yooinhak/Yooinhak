@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=flat-square&amp;logo=redux&amp;logoColor=white" alt="Redux">
   <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=flat-sqaure&amp;logo=react&amp;logoColor=%2361DAFB" alt="React Native">
 </p>
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=flat-sqaure&amp;logo=SASS&amp;logoColor=white" alt="SASS">
   <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&amp;logo=firebase" alt="Firebase">
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat-sqaure&amp;logo=git&amp;logoColor=white" alt="Git">
