@@ -19,7 +19,7 @@
 <h3 align="center" id="skills">📝studying now...</h3>
 <p align="center">
   <a href="https://www.instagram.com/qo_op218/"><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white"/></a>
-  <a href="https://velog.io/@dlsgkrdl23"><img src="https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white"/></a>
+  <a href="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white"/></a>
   <a href="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white"/></a>
 </p>
 
