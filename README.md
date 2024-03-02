@@ -8,6 +8,7 @@
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&amp;logo=javascript&amp;logoColor=%23F7DF1E" alt="JavaScript">
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&amp;logo=React&amp;logoColor=white" alt="React">
   <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=flat-square&amp;logo=redux&amp;logoColor=white" alt="Redux">
+  <img src="https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white"/>
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=flat-square&amp;logo=react&amp;logoColor=%2361DAFB" alt="React Native">
@@ -20,7 +21,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white"/>
 </p>
 
 <h3 align="center" id="skills">😎This is me!</h3>
