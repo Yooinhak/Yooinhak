@@ -17,7 +17,7 @@
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&amp;logo=git&amp;logoColor=white" alt="Git">
 </p>
 
-<h3 align="center" id="skills">📝studying now...</h3>
+<h3 align="center" id="skills">📝studying now...test</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white"/>
